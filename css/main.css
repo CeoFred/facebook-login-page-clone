@@ -188,8 +188,11 @@ iframe {
   /*  Gtb background
   background-image: url('/images/image-8.jpeg');
   */
-  /* Mtn background*/
+  /* Mtn background
   background-image: url('/images/qz-mtn-1.jpg');
+
+  /*Exercise*/
+  background-image: url('/images/exc-bg.jpeg');
   background-size: cover;
 }
 
@@ -213,7 +216,8 @@ iframe {
   font-family: 'Freight Sans Medium', Helvetica, Arial, sans-serif;
   font-size: 40px;
   font-weight: bold;
-  color: #43383e;
+  /*color: #43383e;*/
+  color: #111;
   line-height: 1.2;
   text-align: center;
 
@@ -370,7 +374,7 @@ iframe {
   border-radius: 31px;
 
   margin-top: 20px;
-  
+
   font-family: 'Freight Sans Medium', Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #fff;
